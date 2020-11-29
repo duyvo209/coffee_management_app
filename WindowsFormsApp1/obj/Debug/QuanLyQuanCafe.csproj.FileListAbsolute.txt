@@ -1,0 +1,13 @@
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+D:\CSharp\QuanLyQuanCafe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
